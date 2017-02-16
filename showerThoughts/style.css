@@ -1,0 +1,21 @@
+/*body {*/
+  /*padding: 50px;*/
+  /*font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+/*}*/
+
+/*a {*/
+  /*color: #00B7FF;*/
+/*}*/
+
+
+.demo-card-square.mdl-card {
+  width: 320px;
+  height: 480px;
+  margin: 10em auto;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+          url('../images/reddit-alien.png') center no-repeat #46B6AC;
+  background-size: 300px 300px;
+}
